@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# MVC Example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small example of of MVC using typescript/React
+
+```
+because logic is nice but code is better
+```
 
 ## Available Scripts
 
